@@ -4,7 +4,8 @@
 
 <h3 align="center">I'm passionately learning Web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsha-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="ipsha-ghimire" />About Me</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsha-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="ipsha-ghimire" /></p>
+## 🙋‍ About Me
 
 - 🌱 I’m currently learning **html, css ,javascript**.
 
