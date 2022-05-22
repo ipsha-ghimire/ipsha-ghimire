@@ -2,15 +2,13 @@
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Ipsha</h1>
 
-<h3 align="center">I'm passionately learning Web Development.</h3>
+<h3 align="center">Aspiring to be a Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsha-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="ipsha-ghimire" /></p>
 <h3>🙋‍ About Me:<h3>
 
-- 🌱 I’m currently learning **html, css ,javascript**.
-
-- 🤝 I’m looking for help with **frontend skills**.
-
+- 🌱 Engineering student
+  
 - 📫 How to reach me **ipshagh2000@gmail.com**.
 
 - ⚡ Fun fact **I love serving and volunteering for animals**.
