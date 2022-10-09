@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Ipsha</h1>
 
-<h3 align="center">Aspiring to be a Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsha-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="ipsha-ghimire" /></p>
 <h3>🙋‍ About Me:<h3>
