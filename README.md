@@ -10,8 +10,6 @@
   
 - 📫 How to reach me **ipshagh2000@gmail.com**.
 
-- ⚡ Fun fact **I love serving and volunteering for animals**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ipsha-ghimire-b2010a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ipsha ghimire" height="30" width="40" /></a>
