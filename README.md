@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsha-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="ipsha-ghimire" /></p>
 <h3>🙋‍ About Me:<h3>
 
-- 🌱 Engineering student
+- 🌱 QA Engineer
   
-- 📫 How to reach me **ipshagh2000@gmail.com**.
+- 📫 How to reach me **ipshaaghimire@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
