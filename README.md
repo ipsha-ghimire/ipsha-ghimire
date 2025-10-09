@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsha-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="ipsha-ghimire" /></p>
 <h3>🙋‍ About Me:<h3>
 
-- 🌱 SOftware Test Engineer with some knowledge on Devops.
+- 🌱 Software Test Engineer with knowledge of Devops.
   
 - 📫 How to reach me **ipshaaghimire@gmail.com**.
 
