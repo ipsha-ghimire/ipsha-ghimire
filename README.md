@@ -39,3 +39,5 @@ I learn quietly, build in private, and commit when it feels right for clarity an
 This GitHub is not meant to be flashy, it's a reflection of real practice and growth.
 
 If you’re exploring here, feel free to just look around. Even unfinished work tells a story.
+Gmail: <ipshaaghimire@gmail.com>
+Linkedin:<linkedin.com/in/ipshaghimire> 
