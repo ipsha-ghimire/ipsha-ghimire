@@ -1,10 +1,10 @@
 # ✨ Hi, I'm Ipsha 
 
-### 🔍📊 QA Engineer | Mentor |DevOps Enthusiast | Micro-tech Content creater |
+### 🔍📊 Software Test Engineer | Mentor |DevOps Enthusiast | Micro-tech Content creater |
 
 I work in QA and enjoy understanding how systems behave,whether that's through automation, exploratory testing, or just trying to break things in smart ways.
 
-Most of my work happens in private repositories where I practice, test ideas, and experiment without pressure. I don’t rush to publish or polish—this space is more of a learning log than a showcase.
+Most of my work happens in private repositories where I practice, test ideas, and experiment without pressure. I don’t rush to publish or polish,this space is more of a learning log for me.
 
 ### 🛠️ Skills & Tools
 
@@ -26,7 +26,7 @@ Most of my work happens in private repositories where I practice, test ideas, an
 
 ### 📚 Background & Projects
 
-During my undergrad, I built a few projects where I got introduced to AWS and started understanding how cloud and QA combine—testing in scalable environments, thinking about reliability, and verifying system behavior beyond just UI clicks.
+During my undergrad, I built a few projects where I got introduced to AWS and started understanding how cloud and QA combine testing in scalable environments, thinking about reliability, and verifying system behavior beyond just UI clicks.
 
 My current repos reflect:
 - QA-focused scripts and test frameworks
@@ -35,9 +35,7 @@ My current repos reflect:
 
 ### 🧘‍♀️ How I Work
 
-I learn quietly, build in private, and commit when it feels right—not for speed, but for clarity.  
-This GitHub is not meant to be flashy—it's a reflection of real practice and growth.
-
-> Progress through curiosity, not pressure.
+I learn quietly, build in private, and commit when it feels right for clarity and not for speed.  
+This GitHub is not meant to be flashy, it's a reflection of real practice and growth.
 
 If you’re exploring here, feel free to just look around. Even unfinished work tells a story.
