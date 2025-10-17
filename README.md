@@ -40,5 +40,5 @@ This GitHub is not meant to be flashy, it's a reflection of real practice and gr
 
 If you’re exploring here, feel free to just look around. Even unfinished work tells a story.
 
-Gmail: <ipshaaghimire@gmail.com>
-Linkedin: <https://www.linkedin.com/in/ipshaghimire>
+-Gmail: <ipshaaghimire@gmail.com> <br>
+-Linkedin: <https://www.linkedin.com/in/ipshaghimire>
