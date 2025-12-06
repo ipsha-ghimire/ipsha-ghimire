@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Ipsha 
 
-### 🔍📊 Software Test Engineer | Mentor |DevOps Enthusiast
+### Software Test Engineer | Mentor |DevOps Enthusiast
 
 I work in QA and enjoy understanding how systems behave,whether that's through automation, exploratory testing, or just trying to break things in smart ways.
 
